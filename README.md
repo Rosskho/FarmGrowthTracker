@@ -17,3 +17,15 @@ Interactive List or Overlay:
 
 Accessible via a hotkey or radial menu.
 Optionally toggle an overlay that displays information above each crop in the game world.
+
+
+mods/
+  FarmGrowthTracker/
+    media/
+      lua/
+        client/
+          FarmTrackerUI.lua       # UI for tracking farm data
+          FarmTrackerOverlay.lua  # Optional crop info overlay
+        shared/
+          FarmTrackerUtils.lua    # Shared utility functions
+    mod.info                      # Metadata for the mod
