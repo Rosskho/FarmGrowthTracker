@@ -1,0 +1,4 @@
+name=Farm Growth Tracker
+id=FarmGrowthTracker
+description=Tracks crop growth, water needs, and time until harvest.
+version=1.0
